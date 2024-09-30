@@ -1,0 +1,4 @@
+kind: wasmer.io/App.v0
+name: static-javi-001
+owner: cypress1
+package: .
